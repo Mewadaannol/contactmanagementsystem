@@ -1,0 +1,2 @@
+# contactmanagementsystem
+The main aim behind the development of an automated System of Contact Management    System  is to assist any organization to store and retrieve all the information about   a pre –existing customer in a way more robust and efficient way. All the information   about a particular customer is stored in a retrievable manner. The fascinating fact about   contact management system is that all the information about the contact can be made   available over  every single terminal at an affordable cost.
